@@ -1,0 +1,3 @@
+we can directly do git pull after changing and commiting in remote repo in order to sync the same in local repo
+
+or we can fetch and then merge the files 
